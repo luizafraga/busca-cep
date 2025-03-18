@@ -43,8 +43,8 @@ export default function App() {
       <Text> Região: (endereco.regiao)</Text>
       <Text> IBGE: (end.ibge)</Text>
       <Text> GIA: (endereco.gia)</Text>
-      <Text>OOD: (endereco.ddd)</Text>
-      <Text>SIAFI: (endereco.siafi)</Text>
+      <Text> DDD: (endereco.ddd)</Text>
+      <Text> SIAFI: (endereco.siafi)</Text>
       <StatusBar style="auto"/>
     </View>
   );
